@@ -1,0 +1,37 @@
+fid,Country,Financial,Humanitarian,Military
+F1,United States,15.18,9.49,27.65
+F2,EU institutions,12.32,1.42,2.5
+F3,United Kingdom,2.55,0.37,3.74
+F4,Germany,1.15,0.95,1.2
+F5,Canada,1.81,0.3,0.93
+F6,Poland,1.02,0.1,1.82
+F7,Norway,1.03,0.04,0.32
+F8,France,0.8,0.13,0.22
+F9,Italy,0.51,0.03,0.15
+F10,Japan,0.61,0.01,0
+F11,Austria,0.01,0.55,0
+F12,Netherlands,0.35,0.03,0.17
+F13,Sweden,0.14,0.09,0.27
+F14,Denmark,0.05,0.04,0.3
+F15,Czechia,0,0.11,0.28
+F16,Spain,0.2,0.09,0.06
+F17,Latvia,0.02,0,0.3
+F18,Australia,0,0.05,0.25
+F19,Estonia,0,0.01,0.26
+F20,Portugal,0.25,0,0.01
+F21,Lithuania,0.01,0.05,0.19
+F22,Belgium,0,0.12,0.1
+F23,Slovakia,0,0.01,0.21
+F24,Finland,0.08,0.05,0.03
+F25,Greece,0,0,0.16
+F26,Switzerland,0,0.1,0
+F27,South Korea,0,0.09,0
+F28,Ireland,0,0.07,0
+F29,Luxembourg,0,0,0.05
+F30,Hungary,0,0.05,0
+F31,Turkey,0,0,0.04
+F32,Slovenia,0,0,0.05
+F33,Croatia,0,0.01,0.02
+F34,New Zealand,0,0,0.01
+F35,Taiwan,0,0.01,0
+F36,Romania,0,0.01,0
